@@ -4,6 +4,7 @@
   "description": "Application that use business intelligence technics to understand and provide information about vaccine coverage in Colombia. This webside have all the business intelligence procedure to replicate results",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,5 +19,8 @@
     "learning"
   ],
   "author": "Anderson Arevalo Mendoza",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
