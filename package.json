@@ -1,0 +1,22 @@
+{
+  "name": "bioinsights",
+  "version": "1.0.0",
+  "description": "Application that use business intelligence technics to understand and provide information about vaccine coverage in Colombia. This webside have all the business intelligence procedure to replicate results",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Business",
+    "intelligence",
+    "vaccine",
+    "coverage",
+    "dashboard",
+    "web",
+    "development",
+    "machine",
+    "learning"
+  ],
+  "author": "Anderson Arevalo Mendoza",
+  "license": "ISC"
+}
